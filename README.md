@@ -53,7 +53,7 @@ This repo is set up to contain each days lecture material. The `README.md` file 
 ```bash
 git pull
 ```
-Make sure that you are in the root directory of the `Module-1-Resources` repo so that you recieve the most up to date version of the directory.
+Make sure that you are in the root directory of the `Module-1-Resources` repo so that you receive the most up to date version of the directory.
 
 In the `code-it-out` folders, there are files that contain the examples from the video lectures. You can complete those examples, but they are not mandatory to do. It is just for extra practice.
 
